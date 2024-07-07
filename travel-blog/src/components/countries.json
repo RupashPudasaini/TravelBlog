@@ -1,0 +1,12 @@
+[
+  {
+    "position": [51.5074, -0.1278],
+    "url": "../components/london",
+    "title": "London"
+  },
+  {
+    "position": [40.7128, -74.0060],
+    "url": "../components/newyork",
+    "title": "New York"
+  }
+]
